@@ -1,2 +1,1 @@
-# To-Do-app
-This is a simple Demo App
+This is a MEAN Stack Event Posting App
